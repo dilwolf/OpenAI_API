@@ -1,11 +1,9 @@
-**Repository Name: AI-Assisted-Keyword-Extraction**
-
----
-
-## AI-Assisted Keyword Extraction
-
 This repository contains two Python scripts, `keyword_extract.py` and `OpenAI_chat_bot.py`, designed to leverage OpenAI's GPT models for various text-related tasks. Below is a brief overview of each script's functionality:
 
+
+**AI-Assisted-Keyword-Extraction**
+
+---
 ### `keyword_extract.py`
 
 This script utilizes OpenAI's GPT-3.5 model to extract keywords related to bio, healthcare, and food from a provided summary. It demonstrates how to integrate OpenAI's ChatCompletion API for natural language processing tasks. Key features include:
@@ -14,6 +12,9 @@ This script utilizes OpenAI's GPT-3.5 model to extract keywords related to bio, 
 - Integration with Pandas for efficient data handling
 - Creation of a CSV dataset storing extracted keywords
 
+**AI-Assisted-Chat-Bot**
+
+---
 ### `OpenAI_chat_bot.py`
 
 In this script, OpenAI's GPT-3.5 model is employed to build a very simple chatbot interface. Users can engage in conversations with the chatbot, and responses are generated based on the input provided. Features include:
