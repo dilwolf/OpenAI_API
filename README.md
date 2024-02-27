@@ -36,7 +36,7 @@ To utilize these scripts effectively, follow the steps below:
 
 4. **Interaction (for `OpenAI_chat_bot.py`)**: Engage with the chatbot by inputting messages when prompted. To exit the chat, type "quit", "exit", or "bye".
 
-5. **Output (for `file1.py`)**: Check the generated CSV file in the `dataset` directory for extracted keywords corresponding to each summary.
+5. **Output (for `keyword_extract.py`)**: Check the generated CSV file in the `dataset` directory for extracted keywords corresponding to each summary.
 
 ---
 **Note**: Ensure dependencies such as Pandas and OpenAI's `openai` library are installed in your Python environment to execute these scripts successfully. For further details on installation and usage, refer to the documentation of these dependencies.
